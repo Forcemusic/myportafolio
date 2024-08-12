@@ -247,12 +247,12 @@ h1 {
 
 .testimonios {
     padding: 40px 40px 80px 40px;
-    height: fit-content;
+
 }
 
 .testimonios .carousel {
     max-width: 800px;
-    height: fit-content;
+    
 }
 
 .carousel-item {
@@ -463,5 +463,13 @@ footer {
         margin-top: 20px;
     }
 }
+
+@media screen and (max-width: 400px) {
+    .testimonios {
+        height: 1000px;
+    }
+}
+
+
 
 
