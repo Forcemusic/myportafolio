@@ -465,8 +465,8 @@ footer {
 }
 
 @media screen and (max-width: 400px) {
-    .testimonios {
-        height: 1000px; !important
+    #testimonios-carrusel {
+        height: 1000px;
     }
 }
 
