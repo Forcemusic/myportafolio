@@ -247,6 +247,7 @@ h1 {
 
 .testimonios {
     padding: 40px 40px 80px 40px;
+    height: fit-content;
 }
 
 .testimonios .carousel {
