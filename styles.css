@@ -251,6 +251,7 @@ h1 {
 
 .testimonios .carousel {
     max-width: 800px;
+    height: fit-content;
 }
 
 .carousel-item {
@@ -455,4 +456,11 @@ footer {
         margin-top: 20px;
     }
 }
+
+@media screen and (max-width: 500px) {
+    .contacto button {
+        margin-top: 20px;
+    }
+}
+
 
